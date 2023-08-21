@@ -1,5 +1,5 @@
 # Cecilia Kuan - Data Augmentation for Pre-Trained Clinical NLP System
-### Master's Degree in "*Linguistics: Text Mining*", VU Amsterdam.
+## Master's Degree in "*Linguistics: Text Mining*", VU Amsterdam.
 
 This repository contains the code implemented for the Master's Thesis Project "*Generative Approach of Data Augmentation for Pre-Trained Clinical NLP System*".\
 Thesis author: Cecilia Kuan\
@@ -40,6 +40,7 @@ Repository
 ----------
 The code in this repository are adapted and modified from A-PROOF repository https://github.com/cltl/a-proof-zonmw.
 
+Code files with no changes from the original files are not included in descriptions.
 
 # Project folder structure
 
@@ -80,3 +81,4 @@ The requirements are listed in the [environment.yml](environment.yml) file. It i
 $ conda env create -f environment.yml
 $ conda activate zonmw
 ```
+
